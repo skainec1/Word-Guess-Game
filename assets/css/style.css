@@ -1,0 +1,22 @@
+.body1 {
+    background-color: black;
+    font-family: 'Pangolin', cursive;
+    color: white;
+    /* text-align: center; */
+}
+#header1 {
+    text-align: center;
+}
+#header2 {
+    font-size: 25px;
+    text-align: center;
+    border: 1px white;
+}
+
+.textBox {
+    border: 3px white;
+    height: 800px;
+    width: 80%;
+    font-size: 30px;
+    background-color: rgb(0, 162, 255);
+}
